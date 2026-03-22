@@ -60,6 +60,43 @@ a {
 a:hover {
   color: #7FFFD4;
 }
+/* Coursework Grid Layout */
+.course-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 20px;
+  margin-top: 30px;
+}
+
+.semester {
+  background: white;
+  padding: 20px;
+  border-radius: 12px;
+  border-left: 5px solid #001f3f; /* Navy accent */
+  box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+}
+
+.semester h3 {
+  margin-top: 0;
+  color: #001f3f;
+  font-size: 1.1rem;
+  border-bottom: 2px solid #7FFFD4; /* Aquamarine line */
+  padding-bottom: 8px;
+}
+
+.semester ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.semester li {
+  margin-bottom: 8px;
+  font-size: 0.95rem;
+}
+
+.semester li b {
+  color: #0077be; /* Ocean Blue for course numbers */
+}
 
 footer {
   margin-top: 50px;
