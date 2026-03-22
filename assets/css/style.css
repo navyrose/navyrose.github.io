@@ -40,6 +40,17 @@ nav a:hover {
   background-color: #7FFFD4; /* Fills with Aquamarine on hover */
   color: #001f3f;
 }
+.linkedin-btn {
+  border-color: #0077b5; /* Official LinkedIn Blue */
+  color: #0077b5;
+  font-size: 1.2rem; /* Make the icon slightly bigger */
+}
+
+.linkedin-btn:hover {
+  background-color: #0077b5; 
+  color: white; /* Flips to white text on blue background */
+  border-color: #0077b5;
+}
 
 a {
   color: #0077be; /* Ocean Blue for links in text */
