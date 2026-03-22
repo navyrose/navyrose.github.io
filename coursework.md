@@ -13,7 +13,7 @@ title: Coursework
       <h3>Spring 2026 (Current)</h3>
       <ul>
         <li><strong>CS 189</strong> Introduction to Machine Learning</li>
-        <li><strong>EECS 151</strong> Intro to Digital Design & Integrated Circuits</li>
+        <li><strong>EECS 151</strong> Introduction to Digital Design and Integrated Circuits</li>
         <li><strong>CS 168</strong> Introduction to the Internet: Architecture and Protocols</li>
       </ul>
     </div>
@@ -36,7 +36,7 @@ title: Coursework
     <div class="timeline-content">
       <h3>Summer 2025</h3>
       <ul>
-        <li><strong>CS 70</strong> Discrete Math & Probability Theory</li>
+        <li><strong>CS 70</strong> Discrete Mathematics and Probability Theory</li>
       </ul>
     </div>
   </div>
