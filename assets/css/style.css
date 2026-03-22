@@ -40,16 +40,18 @@ nav a:hover {
   background-color: #7FFFD4; /* Fills with Aquamarine on hover */
   color: #001f3f;
 }
+/* Custom Sea-Themed LinkedIn Button */
 .linkedin-btn {
-  border-color: #0077b5; /* Official LinkedIn Blue */
-  color: #0077b5;
-  font-size: 1.2rem; /* Make the icon slightly bigger */
+  border-color: #001f3f !important; /* Force Navy border */
+  color: #001f3f !important;        /* Force Navy icon */
+  background-color: transparent;
 }
 
 .linkedin-btn:hover {
-  background-color: #0077b5; 
-  color: white; /* Flips to white text on blue background */
-  border-color: #0077b5;
+  background-color: #7FFFD4 !important; /* Aquamarine fill on hover */
+  border-color: #7FFFD4 !important;     /* Border matches fill */
+  color: #001f3f !important;            /* Keep text Navy for contrast */
+  box-shadow: 0 0 15px rgba(127, 255, 212, 0.6); /* Aquamarine glow */
 }
 
 a {
