@@ -1,8 +1,60 @@
+/* Color Palette:
+   Navy: #001f3f
+   Aquamarine: #7FFFD4
+   Soft Sea Foam (Background): #f0fcf9
+*/
+
 body {
-  font-family: sans-serif;
-  line-height: 1.6;
-  max-width: 800px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 1.7;
+  max-width: 900px;
   margin: 0 auto;
-  padding: 20px;
+  padding: 40px 20px;
+  background-color: #f0fcf9; /* Very light sea foam tint */
+  color: #001f3f; /* Navy Blue text for readability */
+  border-top: 8px solid #001f3f; /* Bold Navy anchor at the top */
 }
-header { border-bottom: 1px solid #ccc; margin-bottom: 20px; }
+
+h1, h2, h3 {
+  color: #001f3f; /* Navy headers */
+  border-bottom: 2px solid #7FFFD4; /* Aquamarine underline */
+  padding-bottom: 5px;
+}
+
+header {
+  margin-bottom: 40px;
+  text-align: center;
+}
+
+nav a {
+  color: #001f3f;
+  text-decoration: none;
+  font-weight: bold;
+  padding: 5px 15px;
+  border: 2px solid #7FFFD4; /* Aquamarine outline for buttons */
+  border-radius: 20px;
+  transition: all 0.3s ease;
+}
+
+nav a:hover {
+  background-color: #7FFFD4; /* Fills with Aquamarine on hover */
+  color: #001f3f;
+}
+
+a {
+  color: #0077be; /* Ocean Blue for links in text */
+  transition: color 0.2s;
+}
+
+a:hover {
+  color: #7FFFD4;
+}
+
+footer {
+  margin-top: 50px;
+  font-size: 0.9em;
+  text-align: center;
+  color: #555;
+  border-top: 1px solid #7FFFD4;
+  padding-top: 20px;
+}
