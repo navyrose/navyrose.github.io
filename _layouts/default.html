@@ -1,1 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{ page.title }} | {{ site.title }}</title>
+    <link rel="stylesheet" href="/assets/css/style.css">
+  </head>
+  <body>
+    <header>
+      <h1>{{ site.title }}</h1>
+      <nav>
+        <a href="/">Home</a> | <a href="/about">Research</a>
+      </nav>
+    </header>
 
+    {{ content }}
+
+    <footer>
+      <p>&copy; 2024 {{ site.author }}</p>
+    </footer>
+  </body>
+</html>
