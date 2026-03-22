@@ -1,26 +1,40 @@
 ---
 layout: default
-title: Projects 
+title: Coursework 
 ---
 ## Relevant Coursework
-## Spring 2026 (current)
-CS 189 Introduction to Machine Learning
-EECS 151 Introuction to Digital Design and Integrated Circuits
-CS 168 Introduction to the Internet: Architecture and Protocols
+<div class="course-grid">
 
-## Fall 2025
-CS 170 Efficient Algorithms and Intractable Problems
-CS 61C Great Ideas of Computer Architecture
-EE 105 Microelectronic Devices and Circuits
+<div class="semester">
+### Spring 2026 (Current)
+* **CS 189:** Introduction to Machine Learning
+* **EECS 151:** Intro to Digital Design & ICs
+* **CS 168:** Introduction to the Internet
+</div>
 
-## Summer 2025
-CS 70 Discrete Mathematics and Probability Theory
+<div class="semester">
+### Fall 2025
+* **CS 170:** Efficient Algorithms
+* **CS 61C:** Computer Architecture
+* **EE 105:** Microelectronic Devices
+</div>
 
-## Spring 2025
-CS 61B Data Structures and Algorithms
-EECS 16B Introduction to Circuits and Devices
+<div class="semester">
+### Summer 2025
+* **CS 70:** Discrete Math & Probability
+</div>
 
-## Fall 2024
-CS 61A The Structure and Interpretation of Computer Programs
-EECS 16A Foundations of Signals, Dynamical Systems, and Information Processing
-Physics 7A Physics for Scientists and Engineers
+<div class="semester">
+### Spring 2025
+* **CS 61B:** Data Structures & Algorithms
+* **EECS 16B:** Intro to Circuits & Devices
+</div>
+
+<div class="semester">
+### Fall 2024
+* **CS 61A:** Structure & Interpretation of Programs
+* **EECS 16A:** Foundations of Signals
+* **Physics 7A:** Physics for Scientists & Engineers
+</div>
+
+</div>
