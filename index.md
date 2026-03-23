@@ -5,8 +5,8 @@ title:
 <div class="hero-container">
   <img src="/assets/images/profile.jpg" class="profile-pic" alt="Profile Picture">
   <div class="hero-text">
-    <h1 class="navy-title">Hi, I'm [Your Name]!</h1>
-    <h2 class="aqua-subtitle">Aspiring Researcher & Software Engineer</h2>
+    <h1 class="navy-title">Hi, I'm Anoushka!</h1>
+    <h2 class="aqua-subtitle">Machine Learning and Chip Design</h2>
     <p>
       I am an <strong>EECS student at UC Berkeley</strong> interested in the intersection of 
       hardware architecture and intelligent systems. My work also focuses on 
