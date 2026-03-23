@@ -3,10 +3,17 @@ layout: default
 title: 
 ---
 <div class="hero-container">
-  <img src="/assets/images/profile.jpg" class="profile-pic" alt="Your Name">
+  <img src="/assets/images/profile.jpg" class="profile-pic" alt="Profile Picture">
   <div class="hero-text">
-    # Hi, I'm Anoushka!
-    ### Aspiring Researcher & Software Engineer
-    I am a EECS student at UC Berkeley interested in the intersection of hardware architecture and intelligent systems. I am also interested in theoretical computer science in hardware verification. I am currently open for research and internship opportunities for 2026.
+    <h1 class="navy-title">Hi, I'm [Your Name]!</h1>
+    <h2 class="aqua-subtitle">Aspiring Researcher & Software Engineer</h2>
+    <p>
+      I am an <strong>EECS student at UC Berkeley</strong> interested in the intersection of 
+      hardware architecture and intelligent systems. My work also focuses on 
+      theoretical computer science and hardware verification.
+    </p>
+    <p class="status-badge">
+      Searching for Research & Internship opportunities for 2026
+    </p>
   </div>
 </div>
